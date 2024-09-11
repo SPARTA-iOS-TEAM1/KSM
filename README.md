@@ -1,5 +1,5 @@
-# TravoApps UiKit-Codebase
+# TravoApps Storyboard
 
 ***
 > iOS_5기 사전캠프 1조 프로젝트
-> UiKit Codebase 제작
+> Storyboard 제작
