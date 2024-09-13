@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E27307782C9404A800AB5F8C /* LoginSignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E27307772C9404A800AB5F8C /* LoginSignupViewController.swift */; };
 		E2DFF2D12C92BBAB009F4443 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DFF2D02C92BBAB009F4443 /* AppDelegate.swift */; };
 		E2DFF2D32C92BBAB009F4443 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DFF2D22C92BBAB009F4443 /* SceneDelegate.swift */; };
 		E2DFF2D52C92BBAB009F4443 /* OnboardingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DFF2D42C92BBAB009F4443 /* OnboardingViewController.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E27307772C9404A800AB5F8C /* LoginSignupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginSignupViewController.swift; sourceTree = "<group>"; };
 		E2DFF2CD2C92BBAB009F4443 /* Cafedi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cafedi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2DFF2D02C92BBAB009F4443 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E2DFF2D22C92BBAB009F4443 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				E2DFF2D02C92BBAB009F4443 /* AppDelegate.swift */,
 				E2DFF2D22C92BBAB009F4443 /* SceneDelegate.swift */,
 				E2DFF2D42C92BBAB009F4443 /* OnboardingViewController.swift */,
+				E27307772C9404A800AB5F8C /* LoginSignupViewController.swift */,
 				E2DFF2D92C92BBAC009F4443 /* Assets.xcassets */,
 				E2DFF2DB2C92BBAC009F4443 /* LaunchScreen.storyboard */,
 				E2DFF2DE2C92BBAC009F4443 /* Info.plist */,
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E27307782C9404A800AB5F8C /* LoginSignupViewController.swift in Sources */,
 				E2DFF2D52C92BBAB009F4443 /* OnboardingViewController.swift in Sources */,
 				E2DFF2D12C92BBAB009F4443 /* AppDelegate.swift in Sources */,
 				E2DFF2D32C92BBAB009F4443 /* SceneDelegate.swift in Sources */,

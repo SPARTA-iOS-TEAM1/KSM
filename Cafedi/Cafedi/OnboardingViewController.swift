@@ -68,7 +68,16 @@ class OnboardingViewController: UIViewController {
         view.addSubview(descriptionLabel)
         view.addSubview(getStartedButton)
         
+        // LoginView 이동 버튼 액션 연결
+        getStartedButton.addTarget(self, action: #selector(loginSignupButtonTapped), for: .touchUpInside)
+        
         setupConstraints()
+    }
+    
+    // 버튼 눌렀을 때 실행될 함수
+    @objc func loginSignupButtonTapped() {
+        let loginSignupVC = LoginSignupViewController()
+        navigationController?.pushViewController(loginSignupVC, animated: true)
     }
     
     // 제약 조건 설정

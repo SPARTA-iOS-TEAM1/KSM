@@ -16,7 +16,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="LS_imange" translatesAutoresizingMaskIntoConstraints="NO" id="PCI-S8-Qhi">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Cafedi_image" translatesAutoresizingMaskIntoConstraints="NO" id="PCI-S8-Qhi">
                                 <rect key="frame" x="129" y="345" width="135" height="162"/>
                             </imageView>
                         </subviews>
@@ -34,7 +34,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="LS_imange" width="135" height="162"/>
+        <image name="Cafedi_image" width="135" height="162"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
